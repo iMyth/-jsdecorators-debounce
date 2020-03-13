@@ -19,5 +19,11 @@
   "dependencies": {
     "@types/lodash.debounce": "^4.1.6",
     "lodash.debounce": "^4.1.1"
-  }
+  },
+  "keywords": [
+    "typesript",
+    "decorator",
+    "debounce",
+    "lodash"
+  ]
 }
