@@ -1,5 +1,8 @@
 # @jsdecorators/debounce
 
+>Encapsulate `lodash.debounce` to a decorator.
+For further details please check [lodash/debounce.js](https://github.com/lodash/lodash/blob/master/debounce.js)
+
 ## install
 ```sh
 

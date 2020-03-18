@@ -1,16 +1,17 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "esnext",
     "module": "commonjs",
     "declaration": true,
     "outDir": "./lib",
-    "strict": true
+    "strict": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true
   },
   "include": [
     "src"
   ],
   "exclude": [
-    "node_modules",
-    "**/__tests__/*"
+    "node_modules"
   ]
 }
